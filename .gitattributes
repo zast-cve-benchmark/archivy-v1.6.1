@@ -1,0 +1,2 @@
+archivy/static/*.js linguist-vendored
+.zast/ export-ignore
